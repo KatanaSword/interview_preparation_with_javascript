@@ -1,4 +1,4 @@
-# Javascript Questions - Set 2
+# Javascript Questions - Set 3
 
 1. What are rest and spread operator in javascript?
 
